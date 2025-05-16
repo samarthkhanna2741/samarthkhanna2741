@@ -69,14 +69,12 @@ These are some of the major technologies that I currently use or I am learning:
 ## <img src="https://github.com/samarthkhanna2741/samarthkhanna2741/blob/main/assets/projects.gif" width="50"> Featured Projects
 
 - **End-to-End DevOps Implementation of 3 Tier Architecture Application**
-  - Implemented DevOps best practices across a 21-microservice demo E-commerce application provided by Open Telemetry, leveraging Docker and Kubernetes, integrated Terraform and CI/CD pipelines to achieve 30% faster release cycles.
-  - Architected and automated cloud-native infrastructure by provisioning secure and scalable EKS clusters within AWS VPCs applying modular Terraform principles, resulting in 99.9% deployment success rate and 60% improvement in operational efficiency.
-  - Designed and executed a high-performance CI/CD pipeline for a Java-based microservice using GitHub Actions, and ArgoCD, cutting deployment time by 50% and improving uptime with AWS ALB + Route 53-based failover, achieving high availability of > 99.95%.
+  - Implemented DevOps best practices across a 21-microservice OpenTelemetry-based e-commerce demo app using Docker, Kubernetes, and CI/CD pipelines, achieving 30% faster release cycles. Architected secure, scalable AWS EKS clusters with modular Terraform, improving operational efficiency by 60% and ensuring 99.9% deployment success. Designed a high-performance CI/CD pipeline for a Java microservice using GitHub Actions and ArgoCD, reducing deployment time by 50% and enabling >99.95% high availability via AWS ALB and Route 53 failover.
+
 
 - **DevSecOps CI/CD Pipeline Implementation – Tic-Tac-Toe Game**
-  - Engineered a full-stack Tic-Tac-Toe application using React, TypeScript, and Vite, containerized with Docker, and orchestrated using Kubernetes for scalable deployment.
-  - Implemented a secure CI/CD pipeline using GitHub Actions, integrating Trivy for vulnerability scanning and GitOps-based deployments via ArgoCD ensuring compliance with DevSecOps best practices.
-  - Optimized deployment workflows and registry access by securely managing GitHub Container Registry (GHCR) secrets and resolving CI issues through advanced log tracing and pipeline debugging.
+  - Engineered a full-stack Tic-Tac-Toe app using React, TypeScript, and Vite, containerized with Docker and deployed via Kubernetes for scalability. Built a secure CI/CD pipeline using GitHub Actions, integrated Trivy for vulnerability scanning, and enabled GitOps-based deployments with ArgoCD, aligning with DevSecOps best practices. Optimized workflows by securely managing GHCR secrets and resolving CI issues through advanced log tracing and pipeline debugging.
+
 
 - **AIOps Log Anomaly Detector**
   - Pioneered a foundational AIOps capability by architecting and deploying a Python-based anomaly detection script. This solution harnessed the Isolation Forest machine learning algorithm with Pandas for real-time log analysis, proactively identifying anomalies and enhancing overall system observability for predictive IT operations.
