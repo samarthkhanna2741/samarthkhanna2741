@@ -90,6 +90,8 @@ These are some of the major technologies that I currently use or I am learning:
 
 <a href="https://www.linkedin.com/in/samarthkhanna2741/"> <img title="LinkedIN" alt="LinkedIN" src="https://github.com/samarthkhanna2741/samarthkhanna2741/blob/main/assets/linkedin.png" width="40"></a>
 
+<a href="https://x.com/samarth2741"> <img title="X" alt="LinkedIN" src="https://github.com/samarthkhanna2741/samarthkhanna2741/blob/main/assets/logo-white.png" width="40"></a>
+
 <a href="samarthkhanna2741@gmail.com"> <img title="Email" alt="Email" src="https://github.com/samarthkhanna2741/samarthkhanna2741/blob/main/assets/gmail.png" width="40"></a>
 
 ---
