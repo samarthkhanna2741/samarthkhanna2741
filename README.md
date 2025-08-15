@@ -3,7 +3,7 @@
 ---
 
 ## <img src="https://github.com/samarthkhanna2741/samarthkhanna2741/blob/main/assets/02.webp" width="50"> A little more about me...
-I'm a DevOps and Cloud enthusiast passionate about building scalable infrastructure, optimizing CI/CD workflows, and enabling efficient cloud-native development. My work spans across automation, containerization, infrastructure as code, and observability — all with a production-first mindset.
+I'm a DevOps and Cloud Computing enthusiast passionate about building scalable infrastructure, optimizing CI/CD pipelines and enabling efficient cloud-native development. My work spans across automation, containerization & orchestration, infrastructure as code and observability.
 
 ---
 
