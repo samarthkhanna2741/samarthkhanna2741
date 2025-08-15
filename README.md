@@ -61,8 +61,10 @@ These are some of the major technologies that I currently use or I am learning:
 
 ## <img src="https://github.com/samarthkhanna2741/samarthkhanna2741/blob/main/assets/certifications.gif" width="50"> Certifications
 
-- **Microsoft Certified: Azure Fundamentals**
+- **Oracle: OCI Certified AI Associate**
+- **Amazon: AWS Cloud Practitioner Essential**
 - **Nvidia: Generative AI with Diffusion Models**
+- **Microsoft Certified: Azure Fundamentals**
 
 ---
 
